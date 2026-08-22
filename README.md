@@ -1,9 +1,4 @@
 <div align="center">
-
-<img src="https://vi.wikipedia.org/wiki/Special:FilePath/Logo_HUET.svg" height="70" alt="VNU-UET logo" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Vietnam_National_University_Logo.svg" height="70" alt="VNU logo" />
-
 # Hi there, I'm Hải Hoàng 
 
 ### AI Student @ UET-VNU | Building at the intersection of Math, Physics & Machine Learning
