@@ -10,6 +10,4 @@
 - **AI / ML / NLP:** PyTorch, Transformers, LangChain, HuggingFace
 - **MLOps & Tools:** Git, Docker, Linux, FastAPI
 
-### 📊 GitHub Stats
-![HaiHoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiHoang-AI&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiHoang-AI&layout=compact&theme=radial)
+
