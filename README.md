@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Hải Hoàng 👋
 
-<!--
-**HaiHoang-AI/HaiHoang-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **Education:** AI Student @ VNU-UET ('29)
+- 🎯 **Focus Areas:** AI Engineering, MLOps, LLMs & NLP
+- 🎸 **Interests:** Coding & Playing Guitar
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, HTML/CSS
+- **AI / ML / NLP:** PyTorch, Transformers, LangChain, HuggingFace
+- **MLOps & Tools:** Git, Docker, Linux, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![HaiHoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiHoang-AI&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiHoang-AI&layout=compact&theme=radial)
