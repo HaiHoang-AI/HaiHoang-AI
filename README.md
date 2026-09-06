@@ -20,7 +20,7 @@
 
 ### About Me
 
-- **Education:** B.S. in Artificial Intelligence @ VNU-UET (2025-2029). GPA: 3.82/4.0
+- **Education:** B.S. in Artificial Intelligence @ VNU-UET (2025-2029). GPA: 3.85/4.0
 - **Currently working on:** Bridging the gap between Complex NLP/LLMs and Efficient System Deployment — making large models faster, cheaper, and edge-ready.
 - **Focus areas:** AI Engineering · MLOps · LLMs & NLP
 - **Foundations:** Strong background in Math & Physics. I care deeply about how things work under the hood 
